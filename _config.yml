@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Rafael Bizzo
+  tagline: Um simples ser humano que gosta de Linux e Open Source
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -19,15 +19,15 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: https://twitter.com/_RafaelRJ_
+    github:  rafaelbizzo
+    # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: https://www.youtube.com/channel/UCZXEBTBNwmdsvPNQFtRzZ6w
     # facebook: jekyll
     # soundcloud: jekyll
     # telegram: jekyll
