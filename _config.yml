@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Rafael Bizzo
-  tagline: Um simples ser humano que gosta de Linux e Open Source
+  tagline: Amante de Linux e Open Source
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -19,7 +19,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/_RafaelRJ_
+    twitter: _RafaelRJ_
     github:  rafaelbizzo
     # linkedIn: in/thelehhman
     rss: rss
@@ -27,7 +27,7 @@ plainwhite:
     # flickr:   jekyll
     # instagram: jekyll
     # pinterest: jekyll
-    youtube: https://www.youtube.com/channel/UCZXEBTBNwmdsvPNQFtRzZ6w
+    youtube: channel/UCZXEBTBNwmdsvPNQFtRzZ6w
     # facebook: jekyll
     # soundcloud: jekyll
     # telegram: jekyll
