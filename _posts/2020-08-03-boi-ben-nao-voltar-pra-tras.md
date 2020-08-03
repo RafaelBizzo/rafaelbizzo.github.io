@@ -32,3 +32,5 @@ Karaoke: [Link](https://www.youtube.com/watch?v=BanHjrC3LqY)
 Dublador do nosso herói: [Link](https://vvikipedia.fandom.com/pt/wiki/Luiz_Carlos_Persy)
 
 Um cover aleatório que encontrei no Youtube kkkk: [Link](https://www.youtube.com/watch?v=A7Y0V2HP1yU)
+
+Wikipedia do filme: [Link](https://pt.wikipedia.org/wiki/Barnyard)
