@@ -4,7 +4,7 @@ title:  "A História de Ratchet & Clank"
 date:  2020-08-03 21:03:36 +0530 
 categories: Jogos Ratchet-And-Clank 
 ---
-### Ratchet *&* Clank é uma das franquias de jogos mais bem sucedidas da Playstation, tanto que iniciaram no PS2 e está até prometido para o PS5. Então nada melhor do que fazer um post contando a história por trás do universo de Ratchet *&* Clank, vamos que vamos.
+Ratchet *&* Clank é uma das franquias de jogos mais bem sucedidas da Playstation, tanto que iniciaram no PS2 e está até prometido para o PS5. Então nada melhor do que fazer um post contando a história por trás do universo de Ratchet *&* Clank, vamos que vamos.
 
 ![Crack in Time](https://raw.githubusercontent.com/RafaelBizzo/rafaelbizzo.github.io/master/images/ratchet%20and%20clank%20historia/164676238-ratchet-and-clank-wallpapers.jpg)
 
