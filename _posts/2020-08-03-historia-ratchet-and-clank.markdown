@@ -1,4 +1,4 @@
---- 
+---
 layout: post 
 title:  "A História de Ratchet & Clank" 
 date:  2020-08-03 21:03:36 +0530 
